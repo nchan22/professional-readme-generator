@@ -1,7 +1,7 @@
 // TODO: Include packages needed for this application
 const inquirer = require("inquirer");
 
-// TODO: Create an array of questions for user input
+// Array of questions for user input for README file
 const questions = [
     {
         type: "input",
