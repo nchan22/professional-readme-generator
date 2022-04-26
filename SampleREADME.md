@@ -1,6 +1,6 @@
 
   
-  # Professional ReadME Generator
+  # Professional README Generator
   </br>
   <p align="center">
     <img src="https://img.shields.io/github/languages/count/nchan22/professional-readme-generator?style=for-the-badge" alt="Languages" />
@@ -15,7 +15,7 @@
   </p>
   ## Description 
   
-  This project allows users to create a README file
+  This project allows users to create a README file based off answering questions
   
   ## Table of Contents
     
@@ -28,7 +28,7 @@
   
   
   ## Screenshot
-  ![Site](assets/images/Module 9 Assignment Follow Through)
+  ![Site](assets/images/Walkthrough)
     
   
   ## Credits
