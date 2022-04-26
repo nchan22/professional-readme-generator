@@ -8,9 +8,9 @@
 ### What is Needed to Run File:
 * Node.js
 
-* To Run File Instructions:
-* Open terminal to your file directory
-* Install the inquirer NPM by running     **NPM i inquirer**
+#### To Run File Instructions:
+* Open your terminal/gitbash shell and change directory to your file location
+* Install the inquirer NPM by running     **NPM i inquirer**  in the terminal/gitbash shell
 * Run    **Node index.js**
 * Answer the questions that appear in your terminal
 * Open the README file that has been created
