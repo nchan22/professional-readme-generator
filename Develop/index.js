@@ -124,8 +124,13 @@ function writeToFile(fileName, data) {
     });
 }
 
-// TODO: Create a function to initialize app
-function init() {}
+// function to initialize program
+function init() {
+    inquirer.prompt(questions).then(answers => {
+        writeToFile("SampleREADME.md", generateMarkdown(answers));
+
+    });
+}
 
 // Function call to initialize app
 init();
