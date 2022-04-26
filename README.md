@@ -10,8 +10,8 @@
 
 * To Run File Instructions:
 * Open terminal to your file directory
-* Install the inquirer NPM by running  **NPM i inquirer**
-* Run **Node index.js** 
+* Install the inquirer NPM by running     **NPM i inquirer**
+* Run    **Node index.js**
 * Answer the questions that appear in your terminal
 * Open the README file that has been created
 
