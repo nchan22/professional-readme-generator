@@ -53,7 +53,9 @@ function generateMarkdown(data) {
   
   ### Author
   - ${data.authorName}
-  - Github: [${data.authorGithub}](https://www.github.com/${data.authorGithub})
+  - :octocat: Github: [${data.authorGithub}](https://www.github.com/${
+    data.authorGithub
+  })
   - LinkedIn [${data.authorLinkedIn}](https://www.linkedin.com/in/${
     data.authorLinkedIn
   }/)
